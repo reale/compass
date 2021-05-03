@@ -2,6 +2,8 @@
 url: https://compass.reale.info
 baseurl: '/'
 
+github: https://github.com/reale/compass
+
 # compass configuration
 compass:
   # an avatar or logo (optional)
