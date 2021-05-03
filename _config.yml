@@ -1,8 +1,8 @@
 # general configuration
-url: https://compass.reale.info
+url: https://compass-jekyll-theme.reale.info
 baseurl: '/'
 
-github: https://github.com/reale/compass
+github: https://github.com/reale/compass-jekyll-theme
 
 # compass configuration
 compass:
