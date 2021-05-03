@@ -1,5 +1,7 @@
 # Documentation
 
+![Uptime Robot](https://img.shields.io/uptimerobot/status/m788028230-2392bbb5135d51d90464cb01)
+
 This is a fork of Eduardo Rubio's [Compass Jekyll theme](https://github.com/excentris/compass), with a few minor changes.
 
 Compass is a Jekyll theme designed with something very specific in mind: to be a simple and elegant personal landing page that can be easily deployed to [GitHub Pages](https://pages.github.com/).
