@@ -1,6 +1,6 @@
 # general configuration
-url: http://excentris.net
-baseurl: ''
+url: https://compass.reale.info
+baseurl: '/'
 
 # compass configuration
 compass:
